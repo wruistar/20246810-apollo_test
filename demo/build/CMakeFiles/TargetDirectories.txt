@@ -1,0 +1,3 @@
+/home/ruistar/demo/build/CMakeFiles/rebuild_cache.dir
+/home/ruistar/demo/build/CMakeFiles/edit_cache.dir
+/home/ruistar/demo/build/CMakeFiles/MyProject.dir
